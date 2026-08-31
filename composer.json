@@ -18,7 +18,7 @@
         "lib-icu": ">=4.2.1"
     },
     "require-dev": {
-        "contao/easy-coding-standard": "^3.0 || ^6.0",
+        "contao/easy-coding-standard": "^3.0 || ^6.0 || ^7.0",
         "phpstan/phpstan": "^0.12.40",
         "phpstan/phpstan-phpunit": "^0.12.16",
         "phpunit/phpunit": "^7.5.20 || ^8.5.4 || ^9.4.2",
