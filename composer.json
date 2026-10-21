@@ -1,5 +1,5 @@
 {
-    "name": "ausi/slug-generator",
+    "name": "freepik-company/slug-generator",
     "type": "library",
     "description": "Slug Generator",
     "keywords": ["slug", "slugify", "slug-generator", "transliteration", "unicode", "ascii", "cldr", "pretty-url"],
@@ -10,6 +10,9 @@
             "email": "martin@auswoeger.com"
         }
     ],
+    "replace": {
+        "ausi/slug-generator": "self.version"
+    },
     "require": {
         "php": "^7.1 || ^8.0",
         "ext-intl": "*",
